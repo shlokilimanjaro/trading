@@ -6,7 +6,7 @@
   <script type="text/javascript">
   new TradingView.widget(
   {
-  "width": 980,
+  "width": 700,
   "height": 610,
   "symbol": "OANDA:EURUSD",
   "interval": "60",
